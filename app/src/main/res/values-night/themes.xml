@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.IslamiC37Fri" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/color_darkBLue</item>
+        <item name="colorPrimaryVariant">@color/color_darkBLue</item>
+        <item name="colorOnPrimary">@color/color_darkGold</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="SplashTheme" parent="Theme.IslamiC37Fri">
+        <item name="android:windowBackground">@drawable/splash_shape</item>
+    </style>
+</resources>

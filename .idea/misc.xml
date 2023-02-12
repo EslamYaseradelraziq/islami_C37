@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.148" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/drawable/ic_launcher_background.xml" value="0.148" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/drawable/ronded.xml" value="0.117" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/drawable/splash_shape.xml" value="0.148" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/drawable/sura_content_bg.xml" value="0.117" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/activity_ahadeth_one_item.xml" value="0.18333333333333332" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/activity_qran.xml" value="0.16799999999999998" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/activity_qran_fragment.xml" value="0.1765625" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/activity_splash.xml" value="0.1765625" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/activity_sura_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/ahadeth_fragment.xml" value="0.176" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/fragment_ahadeth_.xml" value="0.25416666666666665" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/fragment_qouran.xml" value="0.1765625" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/fragment_quran_.xml" value="0.2" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/fragment_radio_.xml" value="0.176" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/fragment_tasbeh_.xml" value="0.24010416666666667" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/item_hadeth.xml" value="0.25416666666666665" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/item_sura_details.xml" value="0.1765625" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/quran.xml" value="0.253125" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/quran_list_item.xml" value="0.17407407407407408" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/layout/splashactivity.xml" value="0.1671875" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.1765625" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.148" />
+        <entry key="..\:/IslamiC37Fri/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.148" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
